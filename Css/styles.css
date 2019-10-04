@@ -23,10 +23,18 @@
 #ad{
   float:          left;
   width:          30%;
-  background:     red;
+  background:     blue;
 }
 #content{
   float:          left;
   width:          40%;
-  background:     magenta;
+  background:     grey;
+  text: white;
 }
+
+ #GreenLantern{
+   float:          left;
+   width:          40%;
+   background:     Green;
+
+ }
