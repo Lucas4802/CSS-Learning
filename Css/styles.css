@@ -20,21 +20,21 @@
   width:          100%;
   background:     black;
 }
-#ad{
+#Superman{
   float:          left;
   width:          30%;
   background:     blue;
 }
-#content{
+#Batman{
   float:          left;
   width:          40%;
   background:     grey;
   text: white;
 }
 
- #GreenLantern{
-   float:          left;
-   width:          40%;
-   background:     Green;
+#GreenLantern{
+  float:          left;
+  width:          40%;
+  background:     Green;
 
- }
+}
