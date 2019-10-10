@@ -3,7 +3,7 @@
     margin:       auto;
 }
 #nav{
-  width:          25%;
+  width:          50%;
   float:          left;
   background:     blue;
   text-align:     center;
@@ -22,7 +22,7 @@
 }
 #Superman{
   float:          left;
-  width:          30%;
+  width:          20%;
   background:     blue;
 }
 #Batman{
