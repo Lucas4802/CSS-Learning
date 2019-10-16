@@ -16,7 +16,7 @@ body{
 
 .pagetop{
   background-color: blue;
-  background-image: url("../img/JusticeLeague1.png");
+  background-image: url("..img/JusticeLeague1.png");
   width: 1000px;
   height: 250px;
   margin: auto;
@@ -41,31 +41,21 @@ margin:         1.5%;
   width:          33%;
   background:     grey;
   text:          white;
-  margin:auto;
+
 }
 
 #Superman{
   float:          left;
-  width:          33%;
+  width:          34%;
   background:     blue;
 
 }
 
 #WonderWoman{
   float:          right;
-  width:          34%;
+  width:          33%;
   background:     red;
-
-}
-
-.footer {
-  position: absolute;
-  top: 500px;
-  right: 600px;
-  width: 200px;
-  height: 100px;
-  border: 3px solid #73AD21;
-}
+  }
 
 .drop-content{
 display: none;
@@ -80,3 +70,9 @@ z-index: 1;
 
 .dropdown:hover  .drop-content{
 display: block;
+}
+figure{
+  width: 350;
+  Padding: 25px;
+  position: sticky;
+}
